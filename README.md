@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+Here are some quick things about me:
+
+- 🔭 I am a software engineer who is paranoid about convention, consistency, constraints, likes to learn and challenge.
+- 🌱 I’m currently learning goland
+- 🧑‍💻 Coding is my passion.
+- 📫 The best way to reach me is to send me an email.
+- ⚡ Fun fact: I often play basketball and bicycle riding.
+
+Some study record on blogs:
+
+- 🐳 [BLOGS](https://www.cnblogs.com/taozhengquan/) - record read and write question in coding
+
+
+_Made by [@zhengquantao](https://github.com/zhegnquantao/zhengquantao)_
