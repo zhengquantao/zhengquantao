@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Here are some quick things about me:
 
 - 🔭 I am a software engineer who is paranoid about convention, consistency, constraints, likes to learn and challenge.
-- 🌱 I’m currently learning goland
+- 🌱 I’m currently learning Goland、Python、JavaScript
 - 🧑‍💻 Coding is my passion.
 - 📫 The best way to reach me is to send me an email.
 - ⚡ Fun fact: I often play basketball and bicycle riding.
